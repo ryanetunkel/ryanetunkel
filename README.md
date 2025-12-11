@@ -9,6 +9,12 @@
 <p align:"center">
   I pride myself in my problem-solving abilities and coding knowledge, working to expand my skillset further with more languages and a greater understanding of the software development process. I have always been interested in storytelling and creating things for others. Whether it be through writing, making up schoolyard games, coding video games, DMing D&D, I have always had an innate desire to share my creations with the world in the hope that it brings people joy.
 </p>
+<p align:"center">
+  I also am currently developing a board game borrowing themes from RPGs called Marrow. I am using Google Slides as a format for rapid iteration, development, and playtesting. It can be found
+  <a href="https://docs.google.com/presentation/d/1QnLOVCyGVHRWhghHTud0kDsgFe59nshQGayFWzP5X3A/edit?usp=drive_link">
+        Here
+  </a>
+</p>
 <br><br>
 <div align="center">
     <a href="mailto:ryanetunkel@gmail.com">
