@@ -12,8 +12,9 @@
 <p align:"center">
   I also am currently developing a board game borrowing themes from RPGs called Marrow. I am using Google Slides as a format for rapid iteration, development, and playtesting. It can be found
   <a href="https://docs.google.com/presentation/d/1QnLOVCyGVHRWhghHTud0kDsgFe59nshQGayFWzP5X3A/edit?usp=drive_link">
-        Here
+        here
   </a>
+  .
 </p>
 <br><br>
 <div align="center">
